@@ -1,6 +1,3 @@
-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
-
-CL
 name: Java CI with Maven
 
 on: [push, pull_request]
